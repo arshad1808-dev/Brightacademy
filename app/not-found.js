@@ -1,0 +1,3 @@
+import Link from "next/link";
+export const metadata = { title: "Page not found", robots: { index: false, follow: true } };
+export default function NotFound() { return <section className="section-space"><div className="container-page"><div className="journal-empty"><p className="eyebrow justify-center">404 · A LITTLE DETOUR</p><h1 className="text-4xl font-semibold tracking-tight">Let’s find your way back.</h1><p>This page may have moved. Explore our subjects, find your child’s grade, or start again from the homepage.</p><Link href="/" className="button button-dark">Back to BrightRise</Link></div></div></section>; }

@@ -1,0 +1,49 @@
+# BrightRise Academy
+
+> BrightRise Academy provides personalized, live one-on-one online tutoring for Kindergarten through Grade 10 students and families worldwide.
+
+Canonical website: https://www.brightriseacademy.com
+
+## About BrightRise Academy
+
+BrightRise Academy offers one-on-one online learning support shaped around a student's grade, current understanding, schoolwork, curriculum, and goals. Families can book a free introductory tutoring trial. Lessons are available online for learners in the United States, United Kingdom, Canada, India, and other time zones.
+
+## Main pages
+
+- [Home](https://www.brightriseacademy.com/): Personalized online tutoring for K–10 students.
+- [Online tutoring](https://www.brightriseacademy.com/online-tutoring): The BrightRise tutoring approach.
+- [Subjects](https://www.brightriseacademy.com/subjects): Overview of all subjects offered.
+- [Grades](https://www.brightriseacademy.com/grades): Tutoring by student grade.
+- [How it works](https://www.brightriseacademy.com/how-it-works): How to start tutoring.
+- [Free trial](https://www.brightriseacademy.com/book-a-free-trial): Book a free introductory session.
+- [Mental Math Challenge](https://www.brightriseacademy.com/mental-math-challenge): A free, interactive 10-question mental math game for children.
+- [Learning Journal](https://www.brightriseacademy.com/blog): A free, printable learning reflection journal for children.
+- [FAQs](https://www.brightriseacademy.com/faq): Answers about lessons, subjects, grades, and free trials.
+- [Contact](https://www.brightriseacademy.com/contact): Contact BrightRise Academy.
+
+## Subjects
+
+- [Mathematics tutoring](https://www.brightriseacademy.com/math-tutoring): Number sense, fractions, algebra, geometry, and problem solving.
+- [Science tutoring](https://www.brightriseacademy.com/science-tutoring): Biology, chemistry, physics, Earth and space, and scientific reasoning.
+- [English tutoring](https://www.brightriseacademy.com/english-classes): Reading, writing, grammar, vocabulary, and literature.
+- [Coding classes](https://www.brightriseacademy.com/coding-classes): Beginner-friendly programming and computational thinking.
+- [Social studies](https://www.brightriseacademy.com/subjects/social-studies): History, geography, civics, and social inquiry.
+
+## Tutoring by region
+
+- [United States](https://www.brightriseacademy.com/us)
+- [United Kingdom](https://www.brightriseacademy.com/uk)
+- [Canada](https://www.brightriseacademy.com/canada)
+
+## Important facts
+
+- Service type: live, personalized, one-on-one online tutoring.
+- Student range: Kindergarten through Grade 10; coding is beginner-friendly.
+- Trial: a free introductory session can be requested without a credit card.
+- Contact email: brightriseacademy@gmail.com
+- Contact phone/WhatsApp: +91 8179270850
+
+## Structured discovery
+
+- [XML sitemap](https://www.brightriseacademy.com/sitemap.xml)
+- [Robots directives](https://www.brightriseacademy.com/robots.txt)
